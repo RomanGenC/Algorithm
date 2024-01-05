@@ -1,25 +1,24 @@
-# Algorithms
+# Algorithms from LeetCode
 
-This repository contains various algorithms implemented in Python. Here, you'll find a diverse collection of algorithms to solve problems of varying complexities.
+This repository houses a collection of algorithms sourced from LeetCode, categorized by their difficulty levels: easy, medium, and hard.
 
-## Table of Contents
+## Contents
 
-1. **Algorythms:**
-   - Excel sheet column title
-   - Longest common prefix
-   - Merge two sorted list
-   - Palindrome number
-   - Pascal's triangle
-   - Sqrt(x)
-   - Two sum
+1. **Easy:**
+   - Algorithms categorized as easy difficulty from LeetCode.
 
-## How to Use This Repository
+2. **Medium:**
+   - Algorithms categorized as medium difficulty from LeetCode.
 
-Each folder inside this repository contains implementations of specific algorithms or groups of algorithms. Simply navigate to the desired folder to explore the code and its description.
+3. **Hard:**
+   - Algorithms categorized as hard difficulty from LeetCode.
 
-## Contribution and Development
+## Repository Structure
 
-If you have suggestions for improvements or new algorithm ideas, feel free to create new branches and pull requests. Your contributions are highly appreciated.
+Each folder in this repository corresponds to a difficulty level on LeetCode. You can explore the algorithms and their implementations within each folder.
 
-To utilize and study the algorithms in this repository, simply clone it to your computer.
+## Contribution
 
+Contributions and suggestions for new algorithms or improvements are welcome! Feel free to create new branches and pull requests to enhance this repository.
+
+To utilize and study the algorithms available here, clone this repository to your local machine.
