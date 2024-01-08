@@ -4,7 +4,7 @@ class Solution(object):
         :type num: int
         :rtype: bool
         """
-        #FIRST SOLUTION
+        #FIRST  SOLUTION
         mid = 0
         counter = 1
         while mid <= num:
@@ -14,7 +14,7 @@ class Solution(object):
             counter += 1
         return False
 
-        #SECOND SOLUTION
+        #SECOND  SOLUTION
         result = num ** 0.5
         if int(result) == result:
             return True

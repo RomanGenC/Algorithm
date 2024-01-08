@@ -4,13 +4,13 @@ class Solution(object):
         :type n: int
         :rtype: List[int]
         """
-        #FIRST SOLUTION
+        #FIRST  SOLUTION
         result = []
         for i in range(n + 1):
             result.append(bin(i)[2:].count('1'))
         return result
 
-        #SECOND SOLUTION
+        #SECOND  SOLUTION
         result = [0]
         for i in range(1, n + 1):
             if i % 2 == 1:
