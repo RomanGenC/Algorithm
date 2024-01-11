@@ -11,6 +11,3 @@ class Solution:
         for i in nums:
             dic[i] += 1
         nums[:] = dic[0] * [0] + dic[1] * [1] + dic[2] * [2]
-
-        #THIRD SOLUTION
-
