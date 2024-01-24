@@ -4,7 +4,7 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        # SECOND SOLUTION
+        # FIRST SOLUTION
         if n <= 0:
             return False
         import math
